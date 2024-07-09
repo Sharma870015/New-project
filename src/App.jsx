@@ -13,7 +13,6 @@ import PhotoBoxes from './components/PhotoBoxes';
 import Para4 from './components/Para4';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
-//lllll
 function Home() {
   return (
     <>
